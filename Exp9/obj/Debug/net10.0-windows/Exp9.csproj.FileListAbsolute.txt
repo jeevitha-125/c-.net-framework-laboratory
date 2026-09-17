@@ -1,0 +1,15 @@
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\bin\Debug\net10.0-windows\Exp9.exe
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\bin\Debug\net10.0-windows\Exp9.deps.json
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\bin\Debug\net10.0-windows\Exp9.runtimeconfig.json
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\bin\Debug\net10.0-windows\Exp9.dll
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\bin\Debug\net10.0-windows\Exp9.pdb
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\obj\Debug\net10.0-windows\Exp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\obj\Debug\net10.0-windows\Exp9.AssemblyInfoInputs.cache
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\obj\Debug\net10.0-windows\Exp9.AssemblyInfo.cs
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\obj\Debug\net10.0-windows\Exp9.csproj.CoreCompileInputs.cache
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\obj\Debug\net10.0-windows\Exp9.sourcelink.json
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\obj\Debug\net10.0-windows\Exp9.dll
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\obj\Debug\net10.0-windows\refint\Exp9.dll
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\obj\Debug\net10.0-windows\Exp9.pdb
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\obj\Debug\net10.0-windows\Exp9.genruntimeconfig.cache
+C:\Users\Jeevitha\OneDrive\Desktop\c#\Exp9\obj\Debug\net10.0-windows\ref\Exp9.dll
