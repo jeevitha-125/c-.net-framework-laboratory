@@ -1,0 +1,15 @@
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\bin\Debug\net10.0-windows\exp7.exe
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\bin\Debug\net10.0-windows\exp7.deps.json
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\bin\Debug\net10.0-windows\exp7.runtimeconfig.json
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\bin\Debug\net10.0-windows\exp7.dll
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\bin\Debug\net10.0-windows\exp7.pdb
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\obj\Debug\net10.0-windows\exp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\obj\Debug\net10.0-windows\exp7.AssemblyInfoInputs.cache
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\obj\Debug\net10.0-windows\exp7.AssemblyInfo.cs
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\obj\Debug\net10.0-windows\exp7.csproj.CoreCompileInputs.cache
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\obj\Debug\net10.0-windows\exp7.sourcelink.json
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\obj\Debug\net10.0-windows\exp7.dll
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\obj\Debug\net10.0-windows\refint\exp7.dll
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\obj\Debug\net10.0-windows\exp7.pdb
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\obj\Debug\net10.0-windows\exp7.genruntimeconfig.cache
+C:\Users\Jeevitha\OneDrive\Desktop\c#\exp7\obj\Debug\net10.0-windows\ref\exp7.dll
